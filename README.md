@@ -4,7 +4,7 @@
 This guide outlines the steps to configure Single Sign-On (SSO) for 15Five using SAML through **Azure Active Directory (Azure AD)**. It also includes assigning users and groups, testing the connection, and customizing the application.
 
 ## Video Demonstration
-[![SAML SSO Setup](https://github.com/KLavallais/KLavallais/blob/424fbdb6b3348a86979918566f6ea36c04643490/images/SAML%20SSO%20Thumbnail%200002.png)](https://www.youtube.com/watch?v=pXALTU34eMg)
+[![SAML SSO Setup](https://github.com/KLavallais/KLavallais/blob/424fbdb6b3348a86979918566f6ea36c04643490/images/SAML%20SSO%20Thumbnail%200002.png)](https://youtu.be/g96YmnnimfY)
 
 Click the image above to watch a video tutorial on setting up SSO for 15Five.
 
